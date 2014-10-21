@@ -55,8 +55,18 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 - Mongo
 - Redis
 
+### Apache
+- Configure Mac default apache [[Look](http://coolestguidesontheplanet.com/get-apache-mysql-php-phpmyadmin-working-osx-10-10-yosemite/)]
+
+
 ### PHP Environment
 #### PHP
+- By curl `curl -s http://php-osx.liip.ch/install.sh | bash -s 5.5`
+	- Restart apache after `sudo apachectl restart`
+
+or...
+
+
 ```bash
 brew tap homebrew/dupes
 brew tap josegonzalez/homebrew-php
