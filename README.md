@@ -46,6 +46,7 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 - Install VirtualBox [[Download](https://www.virtualbox.org/)] (Vm's Backup HD)
 - Install Transmission [[Download](https://www.transmissionbt.com)]
 - Install MPlayerX (App Store)
+- Install Subcommander [[Download](http://subcommander.tigris.org)]
 
 ### Ruby Environment
 - Install RVM  ```\curl -L https://get.rvm.io | bash -s stable```
