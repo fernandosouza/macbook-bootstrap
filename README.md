@@ -47,6 +47,9 @@ defaults write -g ApplePressAndHoldEnabled -bool false
 - Install Transmission [[Download](https://www.transmissionbt.com)]
 - Install MPlayerX (App Store)
 - Install Subcommander [[Download](http://subcommander.tigris.org)]
+- Install Popcorntime [[Download](http://popcorntime.io)]
+- Install Caffeine (App Store)
+- Install Unarchave (App Store)
 
 ### Ruby Environment
 - Install RVM  ```\curl -L https://get.rvm.io | bash -s stable```
