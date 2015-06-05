@@ -17,6 +17,10 @@
 - Install Mega [[Download](https://mega.co.nz/)]
 - Install Breeze App [[Download](http://www.autumnapps.com/breeze/)]
 
+## SublimeText Extensions
+- Install SideBarEnhancements [[Link](https://packagecontrol.io/packages/SideBarEnhancements)]
+- Install Emmet [[Link](https://packagecontrol.io/packages/Emmet)]
+
 ### System config
 - Set tap to click in Trackpad (Prefs/Trackpad/Point & Click) [Preview](http://cl.ly/image/3W1B0A1B2d0x)
 - Set scrol to natural in Trackpad (Prefs/Trackpad/Scroll & Zoom) [Preview](http://cl.ly/image/2n3N1Q3x2c3N)
